@@ -1,0 +1,65 @@
+[
+  {
+    "id": "q1",
+    "badge": "💘 Bold",
+    "question": "You'd rather your partner surprise you with...",
+    "optionA": "A heartfelt letter only you will ever read",
+    "optionB": "A spontaneous trip somewhere new",
+    "axisA": "expressive",
+    "axisB": "active"
+  },
+  {
+    "id": "q2",
+    "badge": "🔥 Honest",
+    "question": "Arguments in your relationship usually start because of...",
+    "optionA": "Small things piling up until one of us snaps",
+    "optionB": "One big thing neither of us has said out loud yet",
+    "axisA": "deep",
+    "axisB": "present"
+  },
+  {
+    "id": "q3",
+    "badge": "✨ Self-aware",
+    "question": "After a bad day, what you actually need from your partner is...",
+    "optionA": "To be listened to without them trying to fix it",
+    "optionB": "A distraction — watch something, go out, move on",
+    "axisA": "deep",
+    "axisB": "present"
+  },
+  {
+    "id": "q4",
+    "badge": "💬 Expressive",
+    "question": "When you miss your partner during the day, you...",
+    "optionA": "Send them a message saying exactly what you're thinking",
+    "optionB": "Just hold onto it and tell them later in person",
+    "axisA": "expressive",
+    "axisB": "active"
+  },
+  {
+    "id": "q5",
+    "badge": "🌊 Depth",
+    "question": "Your idea of a perfect evening together is...",
+    "optionA": "A long conversation over dinner that goes somewhere unexpected",
+    "optionB": "Doing something — cooking, hiking, a project — side by side",
+    "axisA": "deep",
+    "axisB": "active"
+  },
+  {
+    "id": "q6",
+    "badge": "🔑 Identity",
+    "question": "What you value most in your relationship is...",
+    "optionA": "Still laughing at the same things after all this time",
+    "optionB": "Having built something real together",
+    "axisA": "expressive",
+    "axisB": "active"
+  },
+  {
+    "id": "q7",
+    "badge": "💡 Insight",
+    "question": "When something is wrong between you two, you tend to...",
+    "optionA": "Want to talk about it right away, even if it's hard",
+    "optionB": "Need a little time before you can say what you feel",
+    "axisA": "expressive",
+    "axisB": "deep"
+  }
+]

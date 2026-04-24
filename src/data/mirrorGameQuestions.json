@@ -1,0 +1,44 @@
+[
+  {
+    "id": "q1",
+    "statement": "My partner thinks I listen well — even when I'm distracted.",
+    "selfLabel": "I listen well",
+    "partnerLabel": "They think I listen well"
+  },
+  {
+    "id": "q2",
+    "statement": "My partner would say I'm more logical than emotional.",
+    "selfLabel": "I'm more logical",
+    "partnerLabel": "They see me as logical"
+  },
+  {
+    "id": "q3",
+    "statement": "My partner thinks I initiate quality time.",
+    "selfLabel": "I initiate quality time",
+    "partnerLabel": "They think I initiate"
+  },
+  {
+    "id": "q4",
+    "statement": "My partner would say our biggest strength is communication.",
+    "selfLabel": "Communication is our strength",
+    "partnerLabel": "They'd say communication"
+  },
+  {
+    "id": "q5",
+    "statement": "My partner thinks I hold grudges.",
+    "selfLabel": "I hold grudges",
+    "partnerLabel": "They think I hold grudges"
+  },
+  {
+    "id": "q6",
+    "statement": "My partner would say I'm usually the first to apologise.",
+    "selfLabel": "I apologise first",
+    "partnerLabel": "They think I apologise first"
+  },
+  {
+    "id": "q7",
+    "statement": "My partner feels truly seen by me.",
+    "selfLabel": "I make them feel seen",
+    "partnerLabel": "They feel seen by me"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "steady_flame": {
+    "name": "The Steady Flame",
+    "emoji": "🕯️",
+    "tagline": "You don't burn bright to be seen. You burn steady to keep others warm.",
+    "description": "Your relationship is built on consistency. You show love through presence, through memory, through the way you just know. You're the person who remembers. Who notices. Who stays.",
+    "traits": ["Consistent", "Emotionally present", "Devoted", "Patient"],
+    "growth": "Let yourself want more out loud. Steady doesn't mean silent.",
+    "triviaFact": "Research shows that partners who have daily small rituals of connection — even just 6 seconds of eye contact — report 40% higher relationship satisfaction."
+  },
+  "electric_spark": {
+    "name": "The Electric Spark",
+    "emoji": "⚡",
+    "tagline": "You make ordinary moments feel alive. That's not small — that's everything.",
+    "description": "You're the energy. The one who books the spontaneous trip, who sends the voice note at midnight, who keeps the relationship from going quiet. You lead with action.",
+    "traits": ["Spontaneous", "Energetic", "Initiating", "Playful"],
+    "growth": "Sometimes the deepest connection lives in stillness. Let a moment be, without filling it.",
+    "triviaFact": "Novelty and shared new experiences activate the same neural pathways as early romantic love — which is why spontaneity keeps long-term relationships feeling alive."
+  },
+  "deep_current": {
+    "name": "The Deep Current",
+    "emoji": "🌊",
+    "tagline": "You feel everything. You just don't always say it. That's the work.",
+    "description": "You love with enormous depth. You think carefully, feel intensely, and care about the truth of things. You can read a room before anyone else. You just need to let people read you back.",
+    "traits": ["Emotionally intelligent", "Reflective", "Perceptive", "Loyal"],
+    "growth": "Your partner can't know what they can't see. Give them a draft, not the finished version.",
+    "triviaFact": "People who score high on emotional intelligence report stronger relationship quality — but only when they share that intelligence outward, not just use it to observe."
+  },
+  "shifting_tide": {
+    "name": "The Shifting Tide",
+    "emoji": "🌙",
+    "tagline": "You're honest enough to name what others avoid. That's rare. Use it gently.",
+    "description": "You adapt. You grow. You're willing to have the uncomfortable conversation others keep postponing. Relationships with you don't go stale — they evolve. You create movement.",
+    "traits": ["Adaptable", "Direct", "Growth-oriented", "Honest"],
+    "growth": "Not every truth needs to land right away. Timing is its own form of caring.",
+    "triviaFact": "Couples who regularly discuss dissatisfactions — rather than avoid them — report higher long-term satisfaction, even when those conversations are initially difficult."
+  }
+}

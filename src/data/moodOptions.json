@@ -1,0 +1,74 @@
+[
+  {
+    "id": "connected",
+    "label": "Connected",
+    "emoji": "🤝",
+    "score": 8,
+    "candleIntensity": "warm",
+    "color": "#2D9B72",
+    "followUp": "What's one thing making you feel that way today?"
+  },
+  {
+    "id": "grateful",
+    "label": "Grateful",
+    "emoji": "🙏",
+    "score": 8,
+    "candleIntensity": "warm",
+    "color": "#F4A261",
+    "followUp": "What's something your partner did recently that you haven't thanked them for?"
+  },
+  {
+    "id": "loved",
+    "label": "Loved",
+    "emoji": "💗",
+    "score": 9,
+    "candleIntensity": "bright",
+    "color": "#E879A0",
+    "followUp": "When did you last tell them exactly what they mean to you?"
+  },
+  {
+    "id": "playful",
+    "label": "Playful",
+    "emoji": "😄",
+    "score": 7,
+    "candleIntensity": "flicker",
+    "color": "#7C6ED9",
+    "followUp": "What's something silly you two haven't done together in a while?"
+  },
+  {
+    "id": "overwhelmed",
+    "label": "Overwhelmed",
+    "emoji": "😮‍💨",
+    "score": 4,
+    "candleIntensity": "dim",
+    "color": "#94A3B8",
+    "followUp": "What would help you most right now — space, connection, or just being heard?"
+  },
+  {
+    "id": "frustrated",
+    "label": "Frustrated",
+    "emoji": "😤",
+    "score": 3,
+    "candleIntensity": "flicker",
+    "color": "#EF4444",
+    "followUp": "Is there something unsaid between you two that's quietly taking up space?"
+  },
+  {
+    "id": "distant",
+    "label": "Distant",
+    "emoji": "🌫️",
+    "score": 3,
+    "candleIntensity": "dim",
+    "color": "#78716C",
+    "followUp": "When did you last feel truly close to your partner? What was happening?"
+  },
+  {
+    "id": "missed",
+    "label": "Missed",
+    "emoji": "💭",
+    "score": 6,
+    "candleIntensity": "soft",
+    "color": "#60A5FA",
+    "followUp": "What do you miss most — a version of them, a moment, or just more time?"
+  }
+]

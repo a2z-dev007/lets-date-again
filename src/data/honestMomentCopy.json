@@ -1,0 +1,27 @@
+{
+  "segment_1": {
+    "score": 1,
+    "headline": "That's a raw number.",
+    "copy": "You opened this at a {score}. That takes honesty. Most people wait until it's worse. You didn't. That's the whole reason you're here."
+  },
+  "segment_2": {
+    "score": 3,
+    "headline": "Something's been sitting with you.",
+    "copy": "A {score} means you feel it — that quiet gap between where you are and where you want to be. The good news: you noticed. That's already more than most people do."
+  },
+  "segment_3": {
+    "score": 5,
+    "headline": "Right in the middle. Honest.",
+    "copy": "A {score} is the most common opening number on this app. It's not bad — it's real. It says: we're good, but we could be more. That feeling? That's what you're here to work with."
+  },
+  "segment_4": {
+    "score": 7,
+    "headline": "You're here early. That's the best time.",
+    "copy": "A {score} means the foundation is solid. You're not here because things fell apart — you're here because you care about not letting them. That kind of proactive love is rare."
+  },
+  "segment_5": {
+    "score": 9,
+    "headline": "High, and still here. That says everything.",
+    "copy": "You started at a {score}. You could've skipped this. You didn't. That tells me you know that good relationships don't stay good on their own — they need tending. Let's tend."
+  }
+}

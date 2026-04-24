@@ -1,0 +1,66 @@
+[
+  {
+    "id": "the_quiet_strength",
+    "name": "The Quiet Strength",
+    "emoji": "🪨",
+    "axes": { "a": "active", "b": "deep", "c": "building" },
+    "description": "You don't say it — you do it. And what you've built speaks louder than anything you could have put into words.",
+    "traits": ["Devoted", "Steady", "Unspoken depth"]
+  },
+  {
+    "id": "the_steady_climber",
+    "name": "The Steady Climber",
+    "emoji": "🏔️",
+    "axes": { "a": "active", "b": "deep", "c": "protecting" },
+    "description": "You move slowly and with purpose. Every action is intentional. You're building something that lasts.",
+    "traits": ["Purposeful", "Patient", "Long-game thinker"]
+  },
+  {
+    "id": "the_spark_keeper",
+    "name": "The Spark Keeper",
+    "emoji": "⚡",
+    "axes": { "a": "active", "b": "present", "c": "building" },
+    "description": "You make things happen. You show up. You keep the energy alive — and you do it so naturally that nobody notices how much work it takes.",
+    "traits": ["Energetic", "Initiating", "Present"]
+  },
+  {
+    "id": "the_living_flame",
+    "name": "The Living Flame",
+    "emoji": "🔥",
+    "axes": { "a": "active", "b": "present", "c": "protecting" },
+    "description": "You burn present and warm. You're the reason people around you feel seen — and your partner, most of all.",
+    "traits": ["Warm", "Alive", "Protective of joy"]
+  },
+  {
+    "id": "the_deep_writer",
+    "name": "The Deep Writer",
+    "emoji": "✍️",
+    "axes": { "a": "expressive", "b": "deep", "c": "building" },
+    "description": "You love through words and reflection. You hold the stories. One day your partner will realise all the letters you never sent were already heard.",
+    "traits": ["Eloquent", "Reflective", "Emotionally rich"]
+  },
+  {
+    "id": "the_tender_witness",
+    "name": "The Tender Witness",
+    "emoji": "🌿",
+    "axes": { "a": "expressive", "b": "deep", "c": "protecting" },
+    "description": "You are the one who remembers — the small things, the meaningful moments, the person they were when you first met.",
+    "traits": ["Attentive", "Emotionally intelligent", "Memory-keeper"]
+  },
+  {
+    "id": "the_open_door",
+    "name": "The Open Door",
+    "emoji": "🚪",
+    "axes": { "a": "expressive", "b": "present", "c": "building" },
+    "description": "You make it easy to come home. You lead with warmth, openness and the gift of showing up without armour.",
+    "traits": ["Open", "Welcoming", "Direct emotion"]
+  },
+  {
+    "id": "the_intentional_partner",
+    "name": "The Intentional Partner",
+    "emoji": "🧭",
+    "axes": { "a": "expressive", "b": "present", "c": "protecting" },
+    "description": "You are here on purpose. You chose this, chose to show up, and chose to keep going. That is the rarest thing.",
+    "traits": ["Intentional", "Chosen", "Whole-hearted"]
+  }
+]
