@@ -2,15 +2,13 @@ import React from 'react';
 import { View, Text, TouchableOpacity, ScrollView } from 'react-native';
 import { useUserStore } from '../store/useUserStore';
 import { useDayStore } from '../store/useDayStore';
-import { useNavigation } from '@react-navigation/native';
-import { StackNavigationProp } from '@react-navigation/stack';
-import { RootStackParamList } from '../navigation/RootNavigator';
+import { useRouter, useLocalSearchParams } from 'expo-router';
 import { Heart, Sparkles, Smile, BookOpen, Award } from 'lucide-react-native';
 
 export default function HomeScreen() {
   const name = useUserStore((state) => state.name);
   const currentDay = useDayStore((state) => state.currentDay);
-  const navigation = useNavigation<StackNavigationProp<RootStackParamList>>();
+  const router = useRouter();
 
   const days = [
     { title: 'The Spark Check', icon: Sparkles, day: 1, route: 'Day1' },
@@ -37,7 +35,7 @@ export default function HomeScreen() {
             <TouchableOpacity
               key={index}
               disabled={isLocked}
-              onPress={() => navigation.navigate(item.route as any)}
+              onPress={() => router.push(`/${item.route.toLowerCase()}` as any)}
               className={`p-6 rounded-3xl border ${
                 isActive ? 'bg-brand-peach border-brand-rose' : 
                 isComplete ? 'bg-slate-50 border-slate-100' : 'bg-white border-slate-100 opacity-50'
